@@ -23,7 +23,7 @@ def data2_collector(inner_url):
         "chinese_name": title_chi,
         "english_name": title_eng
     })
-
+print("bug found here")
 
 # ------------------------------------------------------
 
