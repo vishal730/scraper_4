@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import sys 
 import os
+import panda as pd
 
 
 
